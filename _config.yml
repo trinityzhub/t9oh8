@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: H8 Articles
 subtitle: ''
 description: ''
 keywords:
@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-root: /
+url: https://trinityzhub.github.io/t9oh8
+root: /t9oh8/
 permalink: /p/:abbrlink/
 permalink_defaults:
 pretty_urls:
